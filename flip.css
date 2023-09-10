@@ -37,6 +37,16 @@
     padding: 90px 0;
 }
 
+.soft {
+    background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("assets/img/data/binary.jpeg") fixed center center;
+    background-size: cover;
+    padding: 90px 0;
+    text-align: center;
+}
+.soft h3 {
+    text-align: center;
+}
+
 .MC {
     top: 10px;
 }

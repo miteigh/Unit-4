@@ -86,3 +86,26 @@
     width: 90%;
     transition:.5s;
 }
+
+.MEM {
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+}
+
+.covMEM {
+    display: flex;
+    height: 255px;
+    width: 100%;
+    overflow: hidden;
+    align-items: center;
+}
+.MEM img {
+    width: 500px;
+    height: 250px;   
+}
+
+.covMEM, H2 {
+    padding-top: 15px;
+    text-align: center;
+}

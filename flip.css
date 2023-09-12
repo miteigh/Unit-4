@@ -90,7 +90,7 @@
 .MEM {
     display: flex;
     flex-direction: column;
-    justify-content: right;
+    justify-content: space-around;
 }
 
 .covMEM {

@@ -1,0 +1,11 @@
+Model Information:
+* title:	A Generic CD
+* source:	https://sketchfab.com/3d-models/a-generic-cd-5718dfe09c164af88e4a66c45c5029f2
+* author:	Nokura (https://sketchfab.com/Nokura)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "A Generic CD" (https://sketchfab.com/3d-models/a-generic-cd-5718dfe09c164af88e4a66c45c5029f2) by Nokura (https://sketchfab.com/Nokura) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

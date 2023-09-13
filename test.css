@@ -1,0 +1,33 @@
+section {
+    padding: 0;
+}
+table {
+    border-style: ;
+}
+td,th {
+    border-bottom: #7ea8f3e6 1.5px solid;
+}
+thead th:nth-child(1) {
+    background-image: linear-gradient(#283a5ae6, rgba(40, 58, 90, 0.9));
+}
+thead th:nth-child(2) {
+    background-image: linear-gradient(rgba(2, 145, 23, 0.9), rgba(2, 145, 23, 0.9));
+}
+thead th:nth-child(3) {
+    background-image: linear-gradient(#f86617e6, rgba(248, 102, 23, 0.9));
+}
+
+.card-title {
+    color: #fff;
+}
+
+.softuse a {
+    color: #f86;
+}
+.softuse a:hover {
+    color: ;
+}
+.ri-image-2-fill {
+    font-size: 24px;
+    color: #209dd8;
+}
